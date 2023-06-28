@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Beatrizlagosb
 - 👀 Futura programadora.
 - 🌱 Iniciante aprendendo Back-end.
 - 💞️ Espero encontrar a ajuda que preciso com a comunidade.
