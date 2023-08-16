@@ -83,7 +83,7 @@
     </td>
 </table>
 
-<br/><br/><br/>
+<br/>
 <hr/>
 <h1 align="center"> Social </h1>
 <p align="center" >
@@ -97,5 +97,21 @@
 <img height="50px"  src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF"></a>
     &nbsp;
 </p>
-<br/><br/>
+<br/>
 <hr/>
+
+<h1 align="center"> Atividade </h1>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Beatrizlagosb&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+<div align="center">
+  <img height="203px" src="https://github-readme-stats.vercel.app/api?username=Beatrizlagosb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="203px" src="https://streak-stats.demolab.com?user=Beatrizlagosb&theme=tokyonight" />
+</div>
+<div align = "center">
+<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Beatrizlagosb&theme=tokyonight">
+
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=Beatrizlagosb&repo=Beatrizlagosb&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github da Beatriz" height="40px" />
+</div>
