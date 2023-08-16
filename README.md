@@ -7,7 +7,7 @@
 <ul align="left">
   <li>📖 Engenheira Civil.</li>
   <li>💻 Estudei na <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>. 
-  <li>🌱 Atualmente estou em transição de carreira para o Desenvolvimento de Software Web backend.</li>
+  <li>🌱 Atualmente estou em transição de carreira para o Desenvolvimento de Software Web Backend.</li>
   <li>🌱 Tenho conhecimento em programação com <strong>Nodejs, Javascript, API RESTful, Express, postgreSQL (banco de dados) e versionamento de código com Git/GitHub</strong>. </li>
   <li>🚀Atualmente tenho me aprofundado no conhecimento sobre tecnologias Backend com uma bolsa de estudos do <strong> iFood/Potência Tech e Cubos Academy</strong>. </li>
   <li>🚀Vou iniciar em mais uma bolsa de estudos do <strong> Santander</strong>, desta vez, com desenvolvimento Backend <strong>Java</strong>. </li>
